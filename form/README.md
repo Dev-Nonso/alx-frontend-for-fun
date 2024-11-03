@@ -43,4 +43,4 @@ Read or watch:
 5. add pure HTML / CSS error handling
 6. add the search form
 Author
-Chinonso Ogbonnaya [@Dev-Nonso]
+Chinonso Ogbonnaya - @Dev-Nonso
